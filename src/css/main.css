@@ -85,6 +85,20 @@
 @import './imports/_debug-grid';
 
 /* Uncomment out the line below to help debug layout issues */
+
+@font-face {
+    font-family: 'selimaregular';
+    src: url('selima_webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+p.b.f4.di.lh-title.mb3.white.mw6.bg-primary {
+    font-family: selimaregular;
+}
+
+
+
 /*@import './imports/_debug';*/
 .bg-fix-primary :first-child {
     box-shadow: inherit;
