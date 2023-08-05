@@ -113,3 +113,6 @@ padding-bottom: 20px;
 }
 .bg-primary {background-color: inherit !important;
 }
+p.w-60-l.mb0 {
+    text-align: justify;
+}
