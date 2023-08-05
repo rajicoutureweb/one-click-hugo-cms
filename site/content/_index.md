@@ -4,11 +4,10 @@ subtitle: " Pure élégance"
 image: img/image_2023-08-05_114430669.png
 blurb:
   heading: À propos de moi
-  text: Bienvenue sur mon site ! Je suis Meriem Errajraji, une passionnée de la
+  text: "Bienvenue sur mon site ! Je suis Meriem Errajraji, une passionnée de la
     haute couture basée à Casablanca. Mon voyage dans l'univers de la mode a
     commencé il y a plusieurs années, et depuis, chaque création que je réalise
-    est une expression de mon amour profond pour l'art du stylisme... <a
-    href="">Lire la suite</a>
+    est une expression de mon amour profond pour l'art du stylisme... "
 intro:
   heading: Portefolio
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
