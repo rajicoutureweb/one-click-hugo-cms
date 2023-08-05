@@ -97,3 +97,5 @@ background-color: #8d5e49ba;
 padding-top: 10px;
 padding-bottom: 20px;
 }
+.bg-primary {background-color: inherit !important;
+}
