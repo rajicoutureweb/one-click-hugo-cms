@@ -1,6 +1,6 @@
 ---
 title: À Propos de moi
-image: /img/products-jumbotron.jpg
+image: img/image_2023-08-06_011548604.png
 heading: À Propos de moi
 description: À Propos de moi
 intro:
