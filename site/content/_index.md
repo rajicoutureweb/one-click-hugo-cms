@@ -1,6 +1,6 @@
 ---
 title: STYLE MAROCAIN,
-subtitle: PURE ÉLÉGANCE
+subtitle: " Pure élégance"
 image: img/image_2023-08-05_114430669.png
 blurb:
   heading: Why Kaldi?
