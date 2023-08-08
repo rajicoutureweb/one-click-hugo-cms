@@ -4,10 +4,6 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-    <div class="tc">
-      <a href="/products" class="btn raise">Lire la suite</a>
-    </div>
-
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
