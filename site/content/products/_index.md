@@ -1,8 +1,8 @@
 ---
-title: À Propos de moi
+title: À propos de moi
 image: img/image_2023-08-06_011548604.png
-heading: À Propos de moi
-description: À Propos de moi
+heading: À propos de moi
+description: À propos de moi
 intro:
   heading: Bienvenue sur mon site !
   description: Je suis Meriem Errajraji, une passionnée de la haute couture basée
