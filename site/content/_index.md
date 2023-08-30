@@ -15,13 +15,18 @@ intro:
     style marocain.
 products:
   - image: img/illustrations-coffee.svg
-    text: La couture marocaine est unique en son genre, mettant en valeur la femme à travers son élégance intemporelle et son charme envoûtant, reflétant ainsi l'héritage raffiné et la créativité captivante du Maroc.
+    text: La couture marocaine est unique en son genre, mettant en valeur la femme à
+      travers son élégance intemporelle et son charme envoûtant, reflétant ainsi
+      l'héritage raffiné et la créativité captivante du Maroc.
   - image: /img/illustrations-coffee-gear.svg
-    text: Chaque pièce de couture raconte une histoire, tissée avec soin et passion, capturant l'essence même de la tradition marocaine. Les motifs exquis et les tissus somptueux se conjuguent pour créer des créations qui transcendent le temps, faisant de chaque femme qui les porte une véritable œuvre d'art vivante.
+    text: Chaque pièce de couture raconte une histoire, tissée avec soin et passion,
+      capturant l'essence même de la tradition marocaine. Les motifs exquis et
+      les tissus somptueux se conjuguent pour créer des créations qui
+      transcendent le temps, faisant de chaque femme qui les porte une véritable
+      œuvre d'art vivante.
 values:
   heading: Témoignages de clients
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    
+    "Mon caftan commandé ici est tout simplement époustouflant ! Chaque détail témoigne d'un artisanat exceptionnel. Je me sens vraiment connectée à la culture marocaine en le portant."
 ---
